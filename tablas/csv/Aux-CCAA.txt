@@ -1,0 +1,22 @@
+"IdCCAA";"CCAA";"Poblacion";"Notas"
+1;"Andalucía";8379820;
+2;"Aragón";1308750;
+3;"Asturias";1034960;
+4;"Baleares";988318;
+5;"Canarias";2101924;
+6;"Cantabria";280295;
+7;"Castilla La Mancha";2031479;
+8;"Castilla y León";2426801;
+9;"Cataluña";7555830;
+10;"Cdad Valenciana";4941509;
+12;"Ceuta";84959;
+13;"Euskadi";21194158;
+14;"Extremadura";1079920;
+15;"Galicia";2708339;
+16;"La Rioja";315381;
+17;"Madrid";6507184;
+18;"Melilla";86210;
+19;"Murcia";1470273;
+20;"Navarra";643234;
+21;"Extranjero";75300000;
+22;"Sin datos";0;

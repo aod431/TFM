@@ -1,0 +1,13 @@
+"IdPronostico";"Pronostico";"Notas";"Mortal"
+0;"Sin datos";"No data";0
+1;"Rescate sin consecuencias";"Rescue without consecuences";0
+2;"Rescate y traslado a supervisión médica";"Rescue and transport to medical supervision";0
+3;"Rescate con necesidad de observación posterior";"Rescue in need of further observation";0
+4;"Ahogamiento no mortal con rescate y tratamiento in situ";"Non-fatal drowning rescue and treatment on site";0
+5;"Ahogamiento no mortal sin secuelas";"Non-fatal drowning without sequelae";0
+6;"Ahogamiento no mortal con secuelas";"Non-fatal drowning with sequelae";0
+7;"Ahogamiento mortal";"Fatal Drowning";1
+8;"Ahogamiento no mortal con hospitalizacion";"Non-fatal drowning and hospital care";0
+9;"Traumatismo/TRM";"Trauma/Spinal injury";0
+10;"Lesiones";"Injury";0
+11;"Fallecimiento Sin Ahogamiento";"Non-Drowning related death";1

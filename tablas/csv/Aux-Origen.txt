@@ -1,0 +1,8 @@
+"IdOrigen";"Origen";"Observaciones"
+0;"Sin datos";"No data"
+1;"Local";"Local"
+2;"Limítrofe";"Border province"
+3;"Otra provincia";"Another province"
+4;"Otra CCAA";"Another CCAA"
+5;"Residente";"Resident Alien"
+6;"Extranjero";"Foreing"

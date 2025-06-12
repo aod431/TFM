@@ -1,0 +1,5 @@
+"IdVigilancia";"Vigilancia";"Notas"
+1;"No vigilado";"No surveillance"
+2;"En horario de vigilancia";"During supervised period"
+3;"Fuera del horario de vigilancia";"Out of supervised period"
+4;"Sin datos";"No data"
